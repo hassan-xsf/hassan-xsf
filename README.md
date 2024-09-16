@@ -1,16 +1,14 @@
 ## Hi there 👋
+I'm **Hassan Shakil** - A Full Stack Developer passionate about creating complex and interactive websites using modern web frameworks. I'm constantly learning and pushing my limits to achieve great things.
 
-<!--
-**hassan-xsf/hassan-xsf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="left">Skills</h2>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,appwrite,nextjs,postgresql,prisma,redux,c,cs,ts,postman,redis,zod&perline=9" />
+  </a>
+</p>
+
+
