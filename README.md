@@ -1,5 +1,5 @@
 # Hi there 👋
-### I'm **Hassan Shakil** - A Full Stack Developer passionate about creating complex and interactive websites using modern web frameworks. I'm constantly learning and pushing my limits to achieve great things.
+I'm **Hassan Shakil** - A Full Stack Developer passionate about creating complex and interactive websites using modern web frameworks. I'm constantly learning and pushing my limits to achieve great things.
 
 <h2 align="left">Skills</h2>
 
