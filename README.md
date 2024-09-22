@@ -7,6 +7,6 @@ I'm **Hassan Shakil** - A Full Stack Developer passionate about creating complex
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,appwrite,nextjs,postgresql,prisma,redux,c,cs,ts,postman,zod,redis&perline=15" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,git,appwrite,nextjs,postgresql,prisma,redux,c,cs,ts,postman,redis,docker,zod&perline=15" />
   </a>
 </p>
